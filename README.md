@@ -41,4 +41,4 @@
 ## 联系方式
 
 - 邮箱：naico.wang@gmail.com
-- LinkedIn：https://www.linkedin.com/in/naico-wang-49554891/
+- LinkedIn：www.linkedin.com/in/naico-wang
